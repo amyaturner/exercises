@@ -15,7 +15,7 @@ The area of the room is 70.00 square meters (753.47 square feet).
 
 */
 
-/*let readlineSync = require('readline-sync');
+let readlineSync = require('readline-sync');
 let roomWidth = readlineSync.question('Enter the width of the room in meters:');
 let roomLength = readlineSync.question('Enter the length of the room in meters:');
 let roomArea = roomWidth * roomLength;
@@ -39,7 +39,7 @@ I tested the problem above, and all was working. Yay.
 
 // PROVIDED SOLUTION:
 
-/*let readlineSync = require("readline-sync");
+let readlineSync = require("readline-sync");
 
 const SQMETERS_TO_SQFEET = 10.7639;
 
