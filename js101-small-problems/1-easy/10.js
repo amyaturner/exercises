@@ -7,6 +7,7 @@ You may assume that the number passed in is an integer greater than 1.
 
 
 
+
 multisum(3);       // 3
 multisum(5);       // 8
 multisum(10);      // 33
